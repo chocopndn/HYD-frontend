@@ -2,6 +2,11 @@
   "expo": {
     "name": "HYD",
     "slug": "HYD",
-    "version": "1.0.0"
+    "scheme": "hyd",
+    "version": "1.0.0",
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ]
   }
 }
